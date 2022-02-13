@@ -1,2 +1,2 @@
 # Bebec.Python
-It includes my python works I am doing within Data Science Career Transition Program provided by Bepec organization.
+It includes python materials (lectures & labs) provided within Data Science Career Transition Program by Bepec organization.
